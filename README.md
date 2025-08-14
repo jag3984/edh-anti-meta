@@ -1,7 +1,6 @@
 # edh-anti-meta
 
-This script queries [Scryfall](https://scryfall.com) and [EDHREC](https://edhrec.com) to find the **least-popular commanders** (as commanders) with extensive filtering options.  
-It is optimized for speed, respects site limits, and includes filters for set origins, mechanics, and card characteristics.
+This script queries [Scryfall](https://scryfall.com) and [EDHREC](https://edhrec.com) to find the **least-popular commanders** with filtering options.
 
 ## Get Started:
 ### 1. Install [Python](https://wiki.python.org/moin/BeginnersGuide/Download)
